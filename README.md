@@ -1,3 +1,8 @@
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+
+```
 /About_Me
 │
 ├── /bio
@@ -14,3 +19,7 @@
 └── /learning
     ├── .NET
     └── C#
+```
+
+</tr>
+</table>
